@@ -17,11 +17,11 @@
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
-│   NAME   : Titli Das                                            │
-│   CLASS  : B.Tech CSE — Cloud Computing & Automation, '28       │
-│   GUILD  : VIT Bhopal                                           │
-│   CGPA   : 8.64 / 10.0                                          │
-│   STATUS : Seeking Internship Opportunities  ✨                 │
+│   NAME   : Titli Das                                             │
+│   CLASS  : B.Tech CSE — Cloud Computing & Automation, '28        │
+│   GUILD  : VIT Bhopal                                            │
+│   CGPA   : 8.64 / 10.0                                           │
+│   STATUS : Open for Internship Opportunities✨                  │
 │   QUEST  : Merging cloud infrastructure with intelligent systems │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
