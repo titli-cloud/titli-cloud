@@ -104,18 +104,6 @@ const titli = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Titli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=titli-cloud&show_icons=true&theme=tokyonight&bg_color=1a0533&title_color=c4b0e8&text_color=e8d5ff&icon_color=a78bca&border_color=6b3fa0&hide_border=false&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=titli-cloud&layout=compact&theme=tokyonight&bg_color=1a0533&title_color=c4b0e8&text_color=e8d5ff&border_color=6b3fa0)
-
-</div>
-
----
-
 ## 🌐 Connect with Me
 
 <div align="center">
